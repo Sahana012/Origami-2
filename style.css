@@ -1,0 +1,49 @@
+h1{
+    font-family:cursive;
+    color: rgb(187, 145, 255);
+}
+
+h3{
+    font-family:cursive;
+    color: rgb(187, 145, 255);
+}
+
+p{
+    font-family:cursive;
+    color: rgb(221, 200, 255);
+}
+
+.menu{
+    display : flex;
+    justify-content: space-between;
+    background-color: rgb(175, 146, 255);
+    font-size: 20px;
+    font-family:cursive;
+    font-weight: 400;
+    color: rgb(255, 255, 255);
+}
+
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.origami{
+    border-radius: 20px;
+    border-color: rgb(174, 246, 255);
+    background-color: rgb(255, 255, 255);
+    width: 200px;
+    font-family: cursive;
+}
+
+body{
+    background-color: rgb(238, 233, 255);
+}
+
+.grid{
+    display : flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color:rgb(175, 146, 255);
+    
+}
